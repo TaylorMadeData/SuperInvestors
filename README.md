@@ -1,5 +1,5 @@
 ## SuperInvestors
-SuperInvestors 13F Stock Analysis
+SuperInvestors 13F Stock Holdings Visualization with Power BI
 
 ## Description & Source
 Power BI dashboard displaying information pulled from [**DataRoma**](https://www.dataroma.com/m/home.php)
