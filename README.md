@@ -19,3 +19,11 @@ Power BI dashboard displaying information pulled from [**DataRoma**](https://www
   
 ## Refresh
   - Last refreashed 12/11/2022
+
+## Images
+#### Notes
+- When you click on something it will filter the other tables
+- You can expand the tables by drilling down or using the "plus" button
+<img src ="https://github.com/TaylorMadeData/SuperInvestors/blob/main/Images/Grouped%20by%20Firm.jpg">
+
+<img src ="https://github.com/TaylorMadeData/SuperInvestors/blob/main/Images/Grouped%20by%20Stocks.jpg">
