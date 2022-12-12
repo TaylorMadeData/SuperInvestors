@@ -2,7 +2,7 @@
 SuperInvestors 13F Stock Holdings Visualization with Power BI
 
 ## Description & Source
-Power BI dashboard displaying information pulled from [**DataRoma**](https://www.dataroma.com/m/home.php)
+Power BI dashboard displaying holdings for large US investors pulled from [**DataRoma**](https://www.dataroma.com/m/home.php)
 
 ## Rough Process
   1. Power BI was used to scrape links for each SuperInvestor portfolio.
