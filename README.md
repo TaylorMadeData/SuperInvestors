@@ -14,8 +14,8 @@ Power BI dashboard displaying information pulled from [**DataRoma**](https://www
   5. I've created a couple simple dashboards as an example.
   
 ## Link to view web/file version of dashboard:
-  [**Power BI Dashboard - Web**](https://app.powerbi.com/view?r=eyJrIjoiMGZjM2YzMDUtMGMwNy00MDQ3LWJjMjQtYmMzYWI1YjRiYjlhIiwidCI6IjRkNDJmNmE4LTcyOTctNGRhYS1iZjhiLTVhOGU5ZmJjOTE1MCJ9)
-  [**Power BI Dashboard - File**](https://github.com/TaylorMadeData/SuperInvestors/blob/main/SuperInvestors.pbix)
+  1. [**Power BI Dashboard - Web**](https://app.powerbi.com/view?r=eyJrIjoiMGZjM2YzMDUtMGMwNy00MDQ3LWJjMjQtYmMzYWI1YjRiYjlhIiwidCI6IjRkNDJmNmE4LTcyOTctNGRhYS1iZjhiLTVhOGU5ZmJjOTE1MCJ9)
+  2. [**Power BI Dashboard - File**](https://github.com/TaylorMadeData/SuperInvestors/blob/main/SuperInvestors.pbix)
   
 ## Refresh
   - Last refreashed 12/11/2022
